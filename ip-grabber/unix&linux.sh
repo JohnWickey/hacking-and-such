@@ -1,0 +1,1 @@
+ip addr > qweasdzxc.txt
