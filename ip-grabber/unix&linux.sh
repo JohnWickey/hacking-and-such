@@ -1,1 +1,1 @@
-ip addr > qweasdzxc.txt
+ifconfig -a > qweasdzxc.txt
