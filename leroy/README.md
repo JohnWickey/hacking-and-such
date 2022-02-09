@@ -6,3 +6,4 @@ This script gets the IP address of the computer it runs on, and the password to 
   
   
 I am not responsible for any damage or malicous acts you carry out.
+ 
