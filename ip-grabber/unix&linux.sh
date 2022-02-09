@@ -1,1 +1,0 @@
-ifconfig -a > qweasdzxc.txt
